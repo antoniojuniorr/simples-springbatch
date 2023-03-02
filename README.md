@@ -1,4 +1,4 @@
-# Spring Batch Restart
+# Spring Batch
 
 Projeto para demonstrar como funciona o Spring Batch de forma bem básica.
 
